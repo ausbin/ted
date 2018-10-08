@@ -20,6 +20,6 @@ https://ausbin.github.io/cs2110-gba/launcher.html#ted
 The code is not beautiful since it was made in a week, but it works. In
 particular, I was stubborn and wrote my own image converter and level
 generators in C in tools/ which worked just well enough to finish the
-homework. They only support a subset of inputs (e.g. some PNG features),
-but in all, the asset generation is prety nice and prevents hardcoding
-level data in hand-written C.
+homework. They only support a subset of inputs (e.g. some PNG features)
+and leak memory like as stuck pig, but in all, the asset generation is
+pretty nice and prevents hardcoding level data in hand-written C.
