@@ -1,0 +1,5 @@
+*.o
+*.gba
+*.elf
+# No idea what these are, but they're annoying
+*.d

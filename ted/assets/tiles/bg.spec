@@ -1,0 +1,16 @@
+bg_wall
+bg_ground
+bg_nasty
+bg_upper_finish
+bg_upper_open
+.
+.
+bg_finish
+bg_open
+bg_roof
+.
+.
+.
+.
+.
+.

@@ -1,0 +1,9 @@
+#!/bin/bash
+# crafted with love by Austin Adams, 2k17
+
+for arg in "$@"; do
+    (( ! afterFirst )) && printf 'const unsigned int tile_count_%s;\n' "$arg" && afterFirst=1
+    [[ $arg != . ]] && printf 'const unsigned char tile_%s[32];\n' "$arg"
+done
+
+exit 0
