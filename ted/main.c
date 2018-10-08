@@ -158,8 +158,7 @@ int main() {
 
                 // Account for overflow. If anim_start is large, vblanks could
                 // have overflowed. I estimate this would require running the
-                // game for about two years before triggering an animation, but
-                // I'm an obsessive little fella, what can I say?
+                // game for about two years before triggering an animation
                 if (vblanks < anim_start) {
                     delta = -delta;
                 }
