@@ -1,2 +1,6 @@
 emulator.log
 .gdb_history
+*.d
+*.o
+*.elf
+*.gba
