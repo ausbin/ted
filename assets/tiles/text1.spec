@@ -1,0 +1,16 @@
+text_0
+text_1
+text_2
+text_3
+text_4
+text_5
+text_6
+text_7
+text_8
+text_9
+text_M
+text_O
+text_V
+text_E
+text_S
+text_slash

@@ -1,0 +1,6 @@
+#!/bin/bash
+# crafted with love by Austin Adams, 2k17
+
+printf 'const unsigned short palette_%s[16];\n' "$1"
+
+exit 0

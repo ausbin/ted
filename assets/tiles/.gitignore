@@ -1,0 +1,3 @@
+# generated assets
+*.c
+# pngs are commited since XCF isn't exactly a stable format
